@@ -1,0 +1,4 @@
+repository "Tanks_main@ivankundirenkogmailcom@cloud"
+  path "/"
+    br "/main"
+    co "/main"
